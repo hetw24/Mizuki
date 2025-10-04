@@ -56,7 +56,7 @@ export const siteConfig: SiteConfig = {
 			desktop: [
 				"/assets/desktop-banner/昔涟.webp",
 				"/assets/desktop-banner/d3.webp",
-				"/assets/desktop-banner/d8.webp",
+				"/assets/desktop-banner/d7.webp",
 			], // 桌面横幅图片
 			mobile: [
 				"/assets/mobile-banner/Gawr Gura.webp",
