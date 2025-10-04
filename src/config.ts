@@ -227,7 +227,7 @@ export const profileConfig: ProfileConfig = {
 		{
 			name: "Bilibli",
 			icon: "fa6-brands:bilibili",
-			url: "做人呢，最重要的是开心",
+			url: "https://space.bilibili.com/3494365613787593",
 		},
 		{
 			name: "GitHub",
