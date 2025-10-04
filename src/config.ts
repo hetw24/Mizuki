@@ -220,29 +220,24 @@ export const navBarConfig: NavBarConfig = {
 };
 
 export const profileConfig: ProfileConfig = {
-	avatar: "assets/images/avatar.png", // 相对于 /src 目录。如果以 '/' 开头，则相对于 /public 目录
-	name: "Mizuki",
-	bio: "The world is big, you have to go and see",
+	avatar: "assets/images/He-TW.jpg", // 相对于 /src 目录。如果以 '/' 开头，则相对于 /public 目录
+	name: "He-TW",
+	bio: "做人呢，最重要的是开心",
 	links: [
 		{
 			name: "Bilibli",
 			icon: "fa6-brands:bilibili",
-			url: "https://space.bilibili.com/701864046",
-		},
-		{
-			name: "Gitee",
-			icon: "mdi:git",
-			url: "https://gitee.com/matsuzakayuki",
+			url: "做人呢，最重要的是开心",
 		},
 		{
 			name: "GitHub",
 			icon: "fa6-brands:github",
-			url: "https://github.com/matsuzaka-yuki",
+			url: "https://github.com/hetw24",
 		},
 		{
 			name: "Discord",
 			icon: "fa6-brands:discord",
-			url: "https://discord.gg/MqW6TcQtVM",
+			url: "https://discord.gg/snhaGfmstG",
 		},
 	],
 };
