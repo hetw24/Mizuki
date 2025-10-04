@@ -54,24 +54,13 @@ export const siteConfig: SiteConfig = {
 		// 支持单张图片或图片数组，当数组长度 > 1 时自动启用轮播
 		src: {
 			desktop: [
-				"/assets/desktop-banner/d1.webp",
-				"/assets/desktop-banner/d2.webp",
+				"/assets/desktop-banner/昔涟.webp",
 				"/assets/desktop-banner/d3.webp",
-				"/assets/desktop-banner/d4.webp",
-				"/assets/desktop-banner/d5.webp",
-				"/assets/desktop-banner/d6.webp",
-				"/assets/desktop-banner/d7.webp",
 				"/assets/desktop-banner/d8.webp",
 			], // 桌面横幅图片
 			mobile: [
-				"/assets/mobile-banner/m1.webp",
-				"/assets/mobile-banner/m2.webp",
-				"/assets/mobile-banner/m3.webp",
-				"/assets/mobile-banner/m4.webp",
-				"/assets/mobile-banner/m5.webp",
-				"/assets/mobile-banner/m6.webp",
-				"/assets/mobile-banner/m7.webp",
-				"/assets/mobile-banner/m8.webp",
+				"/assets/mobile-banner/Gawr Gura.webp",
+				"/assets/mobile-banner/Scarlet.webp",
 			], // 移动横幅图片
 		}, // 使用本地横幅图片
 
@@ -80,7 +69,7 @@ export const siteConfig: SiteConfig = {
 		carousel: {
 			enable: true, // 为 true 时：为多张图片启用轮播。为 false 时：从数组中随机显示一张图片
 
-			interval: 1.5, // 轮播间隔时间（秒）
+			interval: 5, // 轮播间隔时间（秒）
 		},
 
 		// PicFlow API支持(智能图片API)
