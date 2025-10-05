@@ -68,6 +68,14 @@ let volumeBar: HTMLElement;
 const localPlaylist = [
 	{
 		id: 1,
+		title: "Mundane Reality",
+		artist: "Kerusu",
+		cover: "assets/music/cover/Mundane Reality.jpg",
+		url: "assets/music/url/Mundane Reality.mp3",
+		duration: 240,
+	},
+	{
+		id: 1,
 		title: "我生于死去之日",
 		artist: "奥莉安多幻想曲/雨花",
 		cover: "assets/music/cover/我生于死去之日.jpg",
