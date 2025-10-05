@@ -75,7 +75,7 @@ const localPlaylist = [
 		duration: 240,
 	},
 	{
-		id: 1,
+		id: 2,
 		title: "我生于死去之日",
 		artist: "奥莉安多幻想曲/雨花",
 		cover: "assets/music/cover/我生于死去之日.jpg",
@@ -83,7 +83,7 @@ const localPlaylist = [
 		duration: 240,
 	},
 	{
-		id: 2,
+		id: 3,
 		title: "请不要带我走",
 		artist: "奥莉安多幻想曲/诗岸",
 		cover: "assets/music/cover/请不要带我走.jpg",
@@ -91,7 +91,7 @@ const localPlaylist = [
 		duration: 180,
 	},
 	{
-		id: 3,
+		id: 4,
 		title: "未命名星系",
 		artist: "奥莉安多幻想曲/在虚无中永存/星尘",
 		cover: "assets/music/cover/未命名星系.jpg",
@@ -99,7 +99,7 @@ const localPlaylist = [
 		duration: 180,
 	},
 	{
-		id: 4,
+		id: 5,
 		title: "灾厄之时",
 		artist: "奥莉安多幻想曲/永夜/诗岸",
 		cover: "assets/music/cover/灾厄之时.jpg",
