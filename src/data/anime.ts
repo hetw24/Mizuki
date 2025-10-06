@@ -43,7 +43,7 @@ const localAnimeList: AnimeItem[] = [
 		year: "2012",
 		genre: ["Deduce","Romantic","Daily","Campus"],
 		studio: "京阿尼",
-		link: "https://www.bilibili.com/bangumi/media/md28338623",
+		link: "https://www.bilibili.com/bangumi/media/md3398",
 		progress: 23,
 		totalEpisodes: 23,
 		startDate: "2022-07",
