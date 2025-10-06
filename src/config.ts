@@ -420,17 +420,17 @@ export const pioConfig: import("./types/config").PioConfig = {
 	mode: "draggable", // 默认为可拖拽模式
 	hiddenOnMobile: true, // 默认在移动设备上隐藏
 	dialog: {
-		welcome: "Welcome to Mizuki Website!", // 欢迎词
+		welcome: "Welcome to He-TW的博客站!", // 欢迎词
 		touch: [
-			"What are you doing?",
-			"Stop touching me!",
-			"HENTAI!",
-			"Don't bully me like that!",
+			"供三小啦,又安怎?",
+			"777!",
+			"靠北,怎么又是你",
+			"⁄(⁄ ⁄•⁄ω⁄•⁄ ⁄)⁄!",
 		], // 触摸提示
-		home: "Click here to go back to homepage!", // 首页提示
+		home: "点此回到主页", // 首页提示
 		skin: ["Want to see my new outfit?", "The new outfit looks great~"], // 换装提示
-		close: "QWQ See you next time~", // 关闭提示
-		link: "https://github.com/matsuzaka-yuki/Mizuki", // 关于链接
+		close: "下次再会啦", // 关闭提示
+		link: "https://github.com/hetw24", // 关于链接
 	},
 };
 
