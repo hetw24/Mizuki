@@ -6,12 +6,6 @@
 
 <img src="https://g.blfrp.cn/https://github.com/hetw24/hetw24/blob/main/assets/gura1.webp" align="right" width="49%" alt="character art" />
 
-## 关于 Mizuki
-
-::github{repo="matsuzaka-yuki/Mizuki"}
-
----
-
 ## About Me
 
 > 淡看云烟随风去,笑拥晨光自怡然。<br>
