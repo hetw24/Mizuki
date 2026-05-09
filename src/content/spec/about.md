@@ -36,8 +36,3 @@
   <sub>© 2026 He-TW | 淡看云烟随风去,笑拥晨光自怡然。</sub>
 </div>
 
-### About This Site  关于本站
-
-::github{repo="matsuzaka-yuki/Mizuki"}
-
-### 🌟此网站参考🌸Mizuki搭建,请star原创者
